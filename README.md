@@ -6,27 +6,16 @@ A lightweight, plug-and-play indefinite pager indicator for RecyclerViews &amp; 
 
 # Usage
 
-![Release](https://jitpack.io/v/rbro112/Android-Indefinite-Pager-Indicator.svg)
+![Release](https://jitpack.io/v/max-s-max/Android-Indefinite-Pager-Indicator.svg)
 
 
 ## Important Information
- 
-From now on, all the new updates will be published in [jitpack.io](https://jitpack.io/#rbro112/Android-Indefinite-Pager-Indicator).
 
 To use the IndefinitePagerIndicator, simply add the gradle dependency to your module's `build.gradle` file:
 
 ```groovy
-implementation 'com.github.rbro112:Android-Indefinite-Pager-Indicator:Tag'
+implementation 'com.github.max-s-max:Android-Indefinite-Pager-Indicator:Tag'
 ```
-
-or 
-
-```groovy
-implementation 'com.github.wching:Android-Indefinite-Pager-Indicator:Tag'
-```
-
-both of them work 😃
-
 
 Min SDK supported is version 16 - Jelly Bean.
 
